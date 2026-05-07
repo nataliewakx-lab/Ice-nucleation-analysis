@@ -1,0 +1,6 @@
+Python
+Spyder IDE
+pandas
+NumPy
+
+Microsoft Excel #To create tables and edit exported CSV files
