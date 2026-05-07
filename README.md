@@ -44,13 +44,14 @@ ice-nucleation-analysis/ cement-aerosol-ice-nucleation-analysis/
 │   ├── gypsum_1pct.csv
 │
 │
-└── analysis.py
+└──── analysis.py
+    └── droplet_freezing_analysis.py
 ```
 ---
 
 ## Methodology Summary
 
-Experiments were carried out using the **μL‑NIPI droplet‑freezing assay**, recording the freezing temperature of multiple microdroplets. Raw droplet freezing assay data were analysed using Python-based workflows within the Spyder IDE (WinPython64 environment). Pre-existing preprocessing scripts (Barr, 2023) developed for EF600 droplet freezing assay datasets were adapted to identify individual ice nucleation events from LabView-generated recordings.
+Experiments were carried out using the **μL‑NIPI droplet‑freezing assay**, recording the freezing temperature of multiple microdroplets. Raw droplet freezing assay data were analysed using Python-based workflows within the Spyder IDE (WinPython64 environment). Pre-existing preprocessing scripts (Barr, 2023) developed for EF600 droplet freezing assay datasets for academic research purposes were adapted to identify individual ice nucleation events from LabView-generated recordings.
 The resulting datasets were exported as structured CSV files containing:
 
 * date and time data,
@@ -123,7 +124,7 @@ The outputs include:
 
 ## Dataset Information and Citation
 
-All datasets were collected using the μL‑NIPI at the University of Leeds, School of Earth and Environment. If referencing this repository or methodology, please cite the associated undergraduate dissertation project: 
+All datasets were collected using the μL‑NIPI at the University of Leeds, School of Earth and Environment. If referencing this repository or methodology, please cite the associated undergraduate dissertation project as well as Barr (2023) for anlysis python script: 
 
 Kiprono, N. W. (2026). **Evaluating the Ice‑Nucleation Efficiency of Cement Factory Aerosols and Their Potential Effect on Mixed‑Phase Clouds**.
 
