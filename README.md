@@ -69,8 +69,6 @@ where:
 * n_ice(T) represents the number of droplets frozen at temperature T,
 * n_total represents the total number of droplets analysed. 
 
-Fraction-frozen curves were generated to compare the ice nucleation behaviour of cement-related materials and control samples. The workflow included data cleaning, numerical analysis, and visualisation of experimental freezing behaviour.
-
 
 The code performs:
 - Data cleaning and outlier handling
@@ -101,7 +99,7 @@ The code performs:
 pip install pandas numpy
 ```
 
-### 4. Run the analysis script
+### 3. Run the analysis script
 
 ```bash
 python analysis.py
