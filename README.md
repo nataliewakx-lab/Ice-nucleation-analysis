@@ -43,7 +43,6 @@ ice-nucleation-analysis/ cement-aerosol-ice-nucleation-analysis/
 │   ├── gypsum_0.1pct.csv
 │   ├── gypsum_1pct.csv
 │
-│
 └──── analysis.py/
     └── droplet_freezing_analysis.py
 ```
