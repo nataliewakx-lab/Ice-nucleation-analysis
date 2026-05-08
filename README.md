@@ -90,7 +90,7 @@ The code performs:
 
 1. **Download or clone** this repository:  
    ```bash
-   git clone [github.com](https://github.com/nataliekiprono/ice-nucleation-analysis.git)
+   git clone [github.com] (https://github.com/nataliewakx-lab/Ice-nucleation-analysis)
    cd ice-nucleation-analysis
 
 ### 2. Install required packages
