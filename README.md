@@ -122,10 +122,11 @@ The outputs include:
 
 ## Dataset Information and Citation
 
-All datasets were collected using the μL‑NIPI at the University of Leeds, School of Earth and Environment. If referencing this repository or methodology, please cite the associated undergraduate dissertation project as well as Barr (2023) for anlysis python script: 
+All datasets were collected using the μL‑NIPI at the University of Leeds, School of Earth and Environment. If referencing this repository or methodology, please cite the associated undergraduate dissertation project: 
 
 Kiprono, N. W. (2026). **Evaluating the Ice‑Nucleation Efficiency of Cement Factory Aerosols and Their Potential Effect on Mixed‑Phase Clouds**.
 
+Python script was written by Sarah Burr (2023) for academic research purposes. As part of the above research project I have permission to use it and include it. 
 
 
 
