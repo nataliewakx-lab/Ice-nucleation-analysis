@@ -18,7 +18,7 @@ The analysis focuses on calculating the fraction of frozen droplets as a functio
 
 ## Repository Structure
 ```
-ice-nucleation-analysis/ cement-aerosol-ice-nucleation-analysis/
+ice-nucleation-analysis/
 │
 ├── README.md
 ├── requirements.txt
