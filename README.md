@@ -58,8 +58,6 @@ The resulting datasets were exported as structured CSV files containing:
 * plate and set-point temperatures,
 * Stirling voltage measurements associated with freezing events.
 
-Further analysis was conducted using and Microsoft Excel to calculate the fraction of frozen droplets as a function of temperature, based on the singular active-site approach commonly applied in heterogeneous ice nucleation studies.
-
 The following key calculation was implemented in Python:
 ```python
 f_ice(T) = n_ice(T) / n_total              # Fraction of frozen droplets
@@ -82,7 +80,6 @@ The code performs:
 - Spyder IDE
 - pandas
 - NumPy
-- Microsoft Excel
 
 ---
 
